@@ -12,6 +12,7 @@
 		2703C2FC29D7263000252D05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2703C2FB29D7263000252D05 /* Assets.xcassets */; };
 		2703C2FF29D7263000252D05 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2703C2FE29D7263000252D05 /* Preview Assets.xcassets */; };
 		278851ED29D943CE003B2876 /* NetworkManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 278851EC29D943CE003B2876 /* NetworkManager.swift */; };
+		278852802A0A6FFC003B2876 /* AddingCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2788527F2A0A6FFC003B2876 /* AddingCardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +22,7 @@
 		2703C2FB29D7263000252D05 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2703C2FE29D7263000252D05 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		278851EC29D943CE003B2876 /* NetworkManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetworkManager.swift; sourceTree = "<group>"; };
+		2788527F2A0A6FFC003B2876 /* AddingCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddingCardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			children = (
 				278851EB29D943B4003B2876 /* Services */,
 				2703C2F729D7262F00252D05 /* EnglishCardsLearningApp.swift */,
+				2788527F2A0A6FFC003B2876 /* AddingCardView.swift */,
 				2703C2F929D7262F00252D05 /* ContentView.swift */,
 				2703C2FB29D7263000252D05 /* Assets.xcassets */,
 				2703C2FD29D7263000252D05 /* Preview Content */,
@@ -151,6 +154,7 @@
 				278851ED29D943CE003B2876 /* NetworkManager.swift in Sources */,
 				2703C2FA29D7262F00252D05 /* ContentView.swift in Sources */,
 				2703C2F829D7262F00252D05 /* EnglishCardsLearningApp.swift in Sources */,
+				278852802A0A6FFC003B2876 /* AddingCardView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

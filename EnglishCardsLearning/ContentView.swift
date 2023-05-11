@@ -15,9 +15,7 @@ struct ContentView: View {
         NavigationView{
             VStack {
                 Spacer()
-                Text("The simpliest way to learn English words")
-                    .font(.system(.largeTitle, design: .monospaced))
-                    .foregroundColor(.gray)
+                Image("logo")
                 Spacer()
                 HStack{
                     VStack{
